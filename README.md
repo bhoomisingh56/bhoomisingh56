@@ -36,7 +36,7 @@
 
 ## 📌 Pinned Projects:
 
-- [📊 Mercedes Financial Performance Analysis](https://github.com/bhoomisingh56/Mercedes-Financial-Performance-Analysis)
+- [📊 Blinkit_Dashboard](https://github.com/bhoomisingh56/Blinkit-Dashboard)
 
 ---
 
