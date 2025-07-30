@@ -10,7 +10,7 @@
 
 ## 🌐 Let's Connect:
 - 📧 bhoomisingh974@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/bhoomisingh56)
+- 💼 [LinkedIn]([www.linkedin.com/in/bhoomisingh56](https://www.linkedin.com/in/bhoomisingh56/))
 
 ---
 
